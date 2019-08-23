@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+
+Github üzerindeki Hello world rehberinde commit, branch, master gibi kavramları öğreniyorum.
